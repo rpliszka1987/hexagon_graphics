@@ -1,0 +1,1 @@
+This is a drawing of a hexagon in Python using the turtle library.
